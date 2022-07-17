@@ -3,9 +3,6 @@
 <p>
     <img src="https://img.shields.io/badge/iOS-13.0+-blue.svg" />
     <img src="https://img.shields.io/badge/Swift-5.1-ff69b4.svg" />
-    <a href="https://twitter.com/twostraws">
-        <img src="https://img.shields.io/badge/Contact-@twostraws-lightgrey.svg?style=flat" alt="Twitter: @twostraws" />
-    </a>
 </p>
 
 CodeScanner is a SwiftUI framework that makes it easy to scan codes such as QR codes and barcodes. It provides a view struct, `CodeScannerView`, that can be shown inside a sheet so that all scanning occurs in one place.
